@@ -2,6 +2,9 @@
 
 # Piccolo-GPT
 
+[![Paper](https://img.shields.io/badge/SenseTime%20Tech%20Report-arXiv%3A2405.06932-b31b1b)](https://arxiv.org/abs/2405.06932)
+[![Model](https://img.shields.io/badge/🤗%20Model-selmisskilig%2Fpiccolo--gpt--zh-yellow)](https://huggingface.co/selmisskilig/piccolo-gpt-zh)
+
 **Paper:** [Piccolo2: General Text Embeddings with Multi-Task Hybrid loss Training](https://arxiv.org/abs/2405.06932)
 
 🚀 **New SOTA on CMTEB** 
